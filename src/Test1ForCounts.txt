@@ -1,0 +1,3 @@
+Java File Inspector Test
+Line two contains simple text.
+This program reads files line by line.
